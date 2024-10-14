@@ -1,2 +1,2 @@
-# Banglladesh
+# Bangladesh
 Small country
